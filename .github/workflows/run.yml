@@ -1,0 +1,59 @@
+name: daily run
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 */1 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.1.1
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+
+      - name: Setup Go environment
+        uses: actions/setup-go@v3
+        with:
+          go-version: '1.22'
+      - name: Run
+        run: go run main.go
+
+      - name: Commit files
+        run: |
+          now_date=$(date +'%Y-%m-%d')
+          git config --local user.email "ifenghuangxin@gmail.com"
+          git config --local user.name "bigmangos"
+          git pull
+          git add --all
+          git commit -m "update ${now_date}"
+
+      - name: Push changes
+        uses:  ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
+      - name: Get Tag
+        id: get_tag
+        run: echo "tag=$(cat last_download.txt)" >> $GITHUB_ENV
+
+      - name: Check for EXE Files
+        id: check_files
+        run: |
+          if find . -name "*.exe" -print -quit | grep -q .; then
+              echo "exe_exists=true" >> $GITHUB_ENV
+          else
+            echo "exe_exists=false" >> $GITHUB_ENV
+          fi
+
+      - name: Upload Release
+        if: env.exe_exists == 'true'
+        uses: softprops/action-gh-release@v0.1.15
+        with:
+          tag_name: ${{ env.tag }}
+          files: '*.exe'
