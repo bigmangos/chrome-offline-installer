@@ -27,8 +27,8 @@ var versionInfo = map[string]info{
 	"win_beta_x64":   {os: `platform="win" version="10.0" arch="x64"`, app: `appid="{8A69D345-D564-463C-AFF1-A69D9E530F96}" ap="x64-beta-multi-chrome"`},
 	"win_dev_x86":    {os: `platform="win" version="10.0" arch="x86"`, app: `appid="{8A69D345-D564-463C-AFF1-A69D9E530F96}" ap="2.0-dev"`},
 	"win_dev_x64":    {os: `platform="win" version="10.0" arch="x64"`, app: `appid="{8A69D345-D564-463C-AFF1-A69D9E530F96}" ap="x64-dev-multi-chrome"`},
-	"win_canary_x86": {os: `platform="win" version="10.0" arch="x86"`, app: `appid="{8A69D345-D564-463C-AFF1-A69D9E530F96}" ap="x86-canary"`},
-	"win_canary_x64": {os: `platform="win" version="10.0" arch="x64"`, app: `appid="{8A69D345-D564-463C-AFF1-A69D9E530F96}" ap="x64-canary"`},
+	"win_canary_x86": {os: `platform="win" version="10.0" arch="x86"`, app: `appid="{4EA16AC7-FD5A-47C3-875B-DBF4A2008C20}" ap="x86-canary"`},
+	"win_canary_x64": {os: `platform="win" version="10.0" arch="x64"`, app: `appid="{4EA16AC7-FD5A-47C3-875B-DBF4A2008C20}" ap="x64-canary"`},
 }
 
 const (
