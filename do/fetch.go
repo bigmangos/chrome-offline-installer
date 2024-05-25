@@ -108,7 +108,7 @@ func FetchAndUpdateData(data map[string]*model.ChromeInstallerInfo) {
 			slog.Error(fmt.Sprintf("decode error: %v", err))
 			continue
 		}
-		if data[k] == nil || !util.IsNewVersion(decodedRes.Version, data[k].Version) {
+		if data[k] == nil || util.IsNewVersion(decodedRes.Version, data[k].Version) {
 			data[k] = decodedRes
 		}
 	}
