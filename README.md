@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2024-05-26 00:29:01
+2024-05-26 00:37:52
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -83,24 +83,24 @@ https://dl.google.com/release2/chrome/hv4sc6hfjkft5rwcsmxeoi2axq_127.0.6485.0/12
 http://www.google.com/dl/release2/chrome/hv4sc6hfjkft5rwcsmxeoi2axq_127.0.6485.0/127.0.6485.0_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/hv4sc6hfjkft5rwcsmxeoi2axq_127.0.6485.0/127.0.6485.0_chrome_installer.exe
 ## win_canary_x64
-**最新版本**： 125.0.6422.77  
-**文件大小**： 107.78 MB  
-**校验值（Sha256）**： d4ad002d431e22aa0f85104b49e403921e36bed7c3b41a509a9ad6f21bcf211d  
+**最新版本**： 127.0.6500.0  
+**文件大小**： 109.39 MB  
+**校验值（Sha256）**： c18b595bac058ff9df8fafd299b6e1a27a0cbe0b9b1894b149e8f380f1b2af1a  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/ac7s26qlycen6fyvgk5kffgapzla_125.0.6422.77/125.0.6422.77_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/ac7s26qlycen6fyvgk5kffgapzla_125.0.6422.77/125.0.6422.77_chrome_installer.exe
-http://dl.google.com/release2/chrome/ac7s26qlycen6fyvgk5kffgapzla_125.0.6422.77/125.0.6422.77_chrome_installer.exe
-https://dl.google.com/release2/chrome/ac7s26qlycen6fyvgk5kffgapzla_125.0.6422.77/125.0.6422.77_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/ac7s26qlycen6fyvgk5kffgapzla_125.0.6422.77/125.0.6422.77_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/ac7s26qlycen6fyvgk5kffgapzla_125.0.6422.77/125.0.6422.77_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/n6a23vzlyn4pg4bif2fznpwos4_127.0.6500.0/127.0.6500.0_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/n6a23vzlyn4pg4bif2fznpwos4_127.0.6500.0/127.0.6500.0_chrome_installer.exe
+http://dl.google.com/release2/chrome/n6a23vzlyn4pg4bif2fznpwos4_127.0.6500.0/127.0.6500.0_chrome_installer.exe
+https://dl.google.com/release2/chrome/n6a23vzlyn4pg4bif2fznpwos4_127.0.6500.0/127.0.6500.0_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/n6a23vzlyn4pg4bif2fznpwos4_127.0.6500.0/127.0.6500.0_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/n6a23vzlyn4pg4bif2fznpwos4_127.0.6500.0/127.0.6500.0_chrome_installer.exe
 ## win_canary_x86
-**最新版本**： 125.0.6422.112  
-**文件大小**： 97.26 MB  
-**校验值（Sha256）**： 0b2e480ba545842f0ba228be95c6be01ae9805138ee0370d0f1073db0f17c5c9  
+**最新版本**： 127.0.6500.0  
+**文件大小**： 98.64 MB  
+**校验值（Sha256）**： bf295438d96678bf4e9d77ed48db60960d8dec26762f37602a71d0c480fa5967  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/acksn4lti7w6buurfxuv75xjqo4a_125.0.6422.112/125.0.6422.112_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/acksn4lti7w6buurfxuv75xjqo4a_125.0.6422.112/125.0.6422.112_chrome_installer.exe
-http://dl.google.com/release2/chrome/acksn4lti7w6buurfxuv75xjqo4a_125.0.6422.112/125.0.6422.112_chrome_installer.exe
-https://dl.google.com/release2/chrome/acksn4lti7w6buurfxuv75xjqo4a_125.0.6422.112/125.0.6422.112_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/acksn4lti7w6buurfxuv75xjqo4a_125.0.6422.112/125.0.6422.112_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/acksn4lti7w6buurfxuv75xjqo4a_125.0.6422.112/125.0.6422.112_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/ad7ftikjruwppdnbozlkjxkijcmq_127.0.6500.0/127.0.6500.0_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/ad7ftikjruwppdnbozlkjxkijcmq_127.0.6500.0/127.0.6500.0_chrome_installer.exe
+http://dl.google.com/release2/chrome/ad7ftikjruwppdnbozlkjxkijcmq_127.0.6500.0/127.0.6500.0_chrome_installer.exe
+https://dl.google.com/release2/chrome/ad7ftikjruwppdnbozlkjxkijcmq_127.0.6500.0/127.0.6500.0_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/ad7ftikjruwppdnbozlkjxkijcmq_127.0.6500.0/127.0.6500.0_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/ad7ftikjruwppdnbozlkjxkijcmq_127.0.6500.0/127.0.6500.0_chrome_installer.exe
