@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2024-06-03 14:24:35
+2024-06-03 20:34:18
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -94,13 +94,13 @@ https://dl.google.com/release2/chrome/adxftmqiuonizwmudfnvr7m74zla_127.0.6517.0/
 http://www.google.com/dl/release2/chrome/adxftmqiuonizwmudfnvr7m74zla_127.0.6517.0/127.0.6517.0_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/adxftmqiuonizwmudfnvr7m74zla_127.0.6517.0/127.0.6517.0_chrome_installer.exe
 ## win_canary_x86
-**最新版本**： 127.0.6516.0  
-**文件大小**： 98.96 MB  
-**校验值（Sha256）**： 134a15dc9369dfbfb6bd40c8a8a17c6d9130d601b9d03f35f1760c0fc9f5713c  
+**最新版本**： 127.0.6517.0  
+**文件大小**： 98.93 MB  
+**校验值（Sha256）**： bf2e5a7c0b01ba14927f2d37f8a7d2f9c827bb2da3e2b553378ec9bace90267d  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/adyr2zg3lnmv5dtvonwmex5n7sva_127.0.6516.0/127.0.6516.0_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/adyr2zg3lnmv5dtvonwmex5n7sva_127.0.6516.0/127.0.6516.0_chrome_installer.exe
-http://dl.google.com/release2/chrome/adyr2zg3lnmv5dtvonwmex5n7sva_127.0.6516.0/127.0.6516.0_chrome_installer.exe
-https://dl.google.com/release2/chrome/adyr2zg3lnmv5dtvonwmex5n7sva_127.0.6516.0/127.0.6516.0_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/adyr2zg3lnmv5dtvonwmex5n7sva_127.0.6516.0/127.0.6516.0_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/adyr2zg3lnmv5dtvonwmex5n7sva_127.0.6516.0/127.0.6516.0_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/acih3xzh2qoh6iqktt43mmmucxaa_127.0.6517.0/127.0.6517.0_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/acih3xzh2qoh6iqktt43mmmucxaa_127.0.6517.0/127.0.6517.0_chrome_installer.exe
+http://dl.google.com/release2/chrome/acih3xzh2qoh6iqktt43mmmucxaa_127.0.6517.0/127.0.6517.0_chrome_installer.exe
+https://dl.google.com/release2/chrome/acih3xzh2qoh6iqktt43mmmucxaa_127.0.6517.0/127.0.6517.0_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/acih3xzh2qoh6iqktt43mmmucxaa_127.0.6517.0/127.0.6517.0_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/acih3xzh2qoh6iqktt43mmmucxaa_127.0.6517.0/127.0.6517.0_chrome_installer.exe
