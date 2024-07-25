@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2024-07-25 02:26:21
+2024-07-25 09:20:20
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -61,27 +61,27 @@ https://dl.google.com/release2/chrome/baucstpbn77yu4yba2l63ivkbe_128.0.6613.7/12
 http://www.google.com/dl/release2/chrome/baucstpbn77yu4yba2l63ivkbe_128.0.6613.7/128.0.6613.7_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/baucstpbn77yu4yba2l63ivkbe_128.0.6613.7/128.0.6613.7_chrome_installer.exe
 ## win_dev_x64
-**最新版本**： 128.0.6601.2  
-**文件大小**： 106.35 MB  
-**校验值（Sha256）**： 5b911f2737da1ac559a6555c11677016cf891ae0990f2a5fe035425bdc336ee9  
+**最新版本**： 128.0.6613.7  
+**文件大小**： 106.33 MB  
+**校验值（Sha256）**： 102da729b48d7d7020d0873d21678aa5f56e15bb226a9935165a15cdcdac028e  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/c3ucoi3do3rpprlyrqfqvmnvpq_128.0.6601.2/128.0.6601.2_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/c3ucoi3do3rpprlyrqfqvmnvpq_128.0.6601.2/128.0.6601.2_chrome_installer.exe
-http://dl.google.com/release2/chrome/c3ucoi3do3rpprlyrqfqvmnvpq_128.0.6601.2/128.0.6601.2_chrome_installer.exe
-https://dl.google.com/release2/chrome/c3ucoi3do3rpprlyrqfqvmnvpq_128.0.6601.2/128.0.6601.2_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/c3ucoi3do3rpprlyrqfqvmnvpq_128.0.6601.2/128.0.6601.2_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/c3ucoi3do3rpprlyrqfqvmnvpq_128.0.6601.2/128.0.6601.2_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/adkk3kxidwcxuy6urayax3csr7mq_128.0.6613.7/128.0.6613.7_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/adkk3kxidwcxuy6urayax3csr7mq_128.0.6613.7/128.0.6613.7_chrome_installer.exe
+http://dl.google.com/release2/chrome/adkk3kxidwcxuy6urayax3csr7mq_128.0.6613.7/128.0.6613.7_chrome_installer.exe
+https://dl.google.com/release2/chrome/adkk3kxidwcxuy6urayax3csr7mq_128.0.6613.7/128.0.6613.7_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/adkk3kxidwcxuy6urayax3csr7mq_128.0.6613.7/128.0.6613.7_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/adkk3kxidwcxuy6urayax3csr7mq_128.0.6613.7/128.0.6613.7_chrome_installer.exe
 ## win_dev_x86
-**最新版本**： 128.0.6601.2  
+**最新版本**： 128.0.6613.7  
 **文件大小**： 96.75 MB  
-**校验值（Sha256）**： 9e6d5103fd059c20c111831067b765c831be0e678bfcb987351eb3c102a03c99  
+**校验值（Sha256）**： a222398d024c0f43d61b8c317a1306a5ddb944fa327622b1028b3e149bc49766  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/acbyai72vxjfizg3l5k6jizevwpa_128.0.6601.2/128.0.6601.2_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/acbyai72vxjfizg3l5k6jizevwpa_128.0.6601.2/128.0.6601.2_chrome_installer.exe
-http://dl.google.com/release2/chrome/acbyai72vxjfizg3l5k6jizevwpa_128.0.6601.2/128.0.6601.2_chrome_installer.exe
-https://dl.google.com/release2/chrome/acbyai72vxjfizg3l5k6jizevwpa_128.0.6601.2/128.0.6601.2_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/acbyai72vxjfizg3l5k6jizevwpa_128.0.6601.2/128.0.6601.2_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/acbyai72vxjfizg3l5k6jizevwpa_128.0.6601.2/128.0.6601.2_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/baucstpbn77yu4yba2l63ivkbe_128.0.6613.7/128.0.6613.7_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/baucstpbn77yu4yba2l63ivkbe_128.0.6613.7/128.0.6613.7_chrome_installer.exe
+http://dl.google.com/release2/chrome/baucstpbn77yu4yba2l63ivkbe_128.0.6613.7/128.0.6613.7_chrome_installer.exe
+https://dl.google.com/release2/chrome/baucstpbn77yu4yba2l63ivkbe_128.0.6613.7/128.0.6613.7_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/baucstpbn77yu4yba2l63ivkbe_128.0.6613.7/128.0.6613.7_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/baucstpbn77yu4yba2l63ivkbe_128.0.6613.7/128.0.6613.7_chrome_installer.exe
 ## win_canary_x64
 **最新版本**： 129.0.6615.0  
 **文件大小**： 107.01 MB  
@@ -94,13 +94,13 @@ https://dl.google.com/release2/chrome/admp4kjpuao324mvg2u3imk7to6a_129.0.6615.0/
 http://www.google.com/dl/release2/chrome/admp4kjpuao324mvg2u3imk7to6a_129.0.6615.0/129.0.6615.0_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/admp4kjpuao324mvg2u3imk7to6a_129.0.6615.0/129.0.6615.0_chrome_installer.exe
 ## win_canary_x86
-**最新版本**： 129.0.6614.0  
-**文件大小**： 96.45 MB  
-**校验值（Sha256）**： 3ac28f277cecde00f3c50dc70727364cfd028c02469915cea377bf194430246c  
+**最新版本**： 129.0.6615.0  
+**文件大小**： 96.50 MB  
+**校验值（Sha256）**： 6aca6989f8381d63e17b5cf7d5eaf6a2591bf6b1d691fe39b54b88b2379c326e  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/acsvhvbojaxtrclc2c27bbviwh5q_129.0.6614.0/129.0.6614.0_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/acsvhvbojaxtrclc2c27bbviwh5q_129.0.6614.0/129.0.6614.0_chrome_installer.exe
-http://dl.google.com/release2/chrome/acsvhvbojaxtrclc2c27bbviwh5q_129.0.6614.0/129.0.6614.0_chrome_installer.exe
-https://dl.google.com/release2/chrome/acsvhvbojaxtrclc2c27bbviwh5q_129.0.6614.0/129.0.6614.0_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/acsvhvbojaxtrclc2c27bbviwh5q_129.0.6614.0/129.0.6614.0_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/acsvhvbojaxtrclc2c27bbviwh5q_129.0.6614.0/129.0.6614.0_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/achtkny25y5locczu7x474t2ub2a_129.0.6615.0/129.0.6615.0_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/achtkny25y5locczu7x474t2ub2a_129.0.6615.0/129.0.6615.0_chrome_installer.exe
+http://dl.google.com/release2/chrome/achtkny25y5locczu7x474t2ub2a_129.0.6615.0/129.0.6615.0_chrome_installer.exe
+https://dl.google.com/release2/chrome/achtkny25y5locczu7x474t2ub2a_129.0.6615.0/129.0.6615.0_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/achtkny25y5locczu7x474t2ub2a_129.0.6615.0/129.0.6615.0_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/achtkny25y5locczu7x474t2ub2a_129.0.6615.0/129.0.6615.0_chrome_installer.exe
