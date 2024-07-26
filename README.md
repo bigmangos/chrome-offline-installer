@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2024-07-26 02:24:09
+2024-07-26 09:19:42
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -94,13 +94,13 @@ https://dl.google.com/release2/chrome/mdth4bfklqjazjwtyijzgq2dbi_129.0.6617.0/12
 http://www.google.com/dl/release2/chrome/mdth4bfklqjazjwtyijzgq2dbi_129.0.6617.0/129.0.6617.0_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/mdth4bfklqjazjwtyijzgq2dbi_129.0.6617.0/129.0.6617.0_chrome_installer.exe
 ## win_canary_x86
-**最新版本**： 129.0.6616.0  
-**文件大小**： 97.31 MB  
-**校验值（Sha256）**： 78da777c293a087295377a05074e761cdb113c4e15fb5ee9806b230805ddb239  
+**最新版本**： 129.0.6617.0  
+**文件大小**： 97.41 MB  
+**校验值（Sha256）**： a9380bb8da4ba8cb0cdc624e52c351d76bc24c9874fa65bba7111a797ca2bc34  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/adj4x52gyoxe427myhqkjbqkkx6q_129.0.6616.0/129.0.6616.0_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/adj4x52gyoxe427myhqkjbqkkx6q_129.0.6616.0/129.0.6616.0_chrome_installer.exe
-http://dl.google.com/release2/chrome/adj4x52gyoxe427myhqkjbqkkx6q_129.0.6616.0/129.0.6616.0_chrome_installer.exe
-https://dl.google.com/release2/chrome/adj4x52gyoxe427myhqkjbqkkx6q_129.0.6616.0/129.0.6616.0_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/adj4x52gyoxe427myhqkjbqkkx6q_129.0.6616.0/129.0.6616.0_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/adj4x52gyoxe427myhqkjbqkkx6q_129.0.6616.0/129.0.6616.0_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/adn3h46prkb7wmrysg3gt6neu5iq_129.0.6617.0/129.0.6617.0_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/adn3h46prkb7wmrysg3gt6neu5iq_129.0.6617.0/129.0.6617.0_chrome_installer.exe
+http://dl.google.com/release2/chrome/adn3h46prkb7wmrysg3gt6neu5iq_129.0.6617.0/129.0.6617.0_chrome_installer.exe
+https://dl.google.com/release2/chrome/adn3h46prkb7wmrysg3gt6neu5iq_129.0.6617.0/129.0.6617.0_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/adn3h46prkb7wmrysg3gt6neu5iq_129.0.6617.0/129.0.6617.0_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/adn3h46prkb7wmrysg3gt6neu5iq_129.0.6617.0/129.0.6617.0_chrome_installer.exe
