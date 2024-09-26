@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2024-09-26 09:37:06
+2024-09-26 14:28:35
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -94,13 +94,13 @@ https://dl.google.com/release2/chrome/fm4yqx35ek4tbngm76t7j4purm_131.0.6739.1/13
 http://www.google.com/dl/release2/chrome/fm4yqx35ek4tbngm76t7j4purm_131.0.6739.1/131.0.6739.1_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/fm4yqx35ek4tbngm76t7j4purm_131.0.6739.1/131.0.6739.1_chrome_installer.exe
 ## win_canary_x86
-**最新版本**： 131.0.6739.0  
-**文件大小**： 98.64 MB  
-**校验值（Sha256）**： 061c40174487f8266e46849f34b975b3f90de4f267eb421942c6f83f48adb3e9  
+**最新版本**： 131.0.6739.1  
+**文件大小**： 116.18 MB  
+**校验值（Sha256）**： b7bbac554f2faa4c0315aa284dcb230ef66e0c9fb54c68aaf5b55d0355d32cc1  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/ade6nfekbkicvztjew2s6ayuwqpq_131.0.6739.0/131.0.6739.0_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/ade6nfekbkicvztjew2s6ayuwqpq_131.0.6739.0/131.0.6739.0_chrome_installer.exe
-http://dl.google.com/release2/chrome/ade6nfekbkicvztjew2s6ayuwqpq_131.0.6739.0/131.0.6739.0_chrome_installer.exe
-https://dl.google.com/release2/chrome/ade6nfekbkicvztjew2s6ayuwqpq_131.0.6739.0/131.0.6739.0_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/ade6nfekbkicvztjew2s6ayuwqpq_131.0.6739.0/131.0.6739.0_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/ade6nfekbkicvztjew2s6ayuwqpq_131.0.6739.0/131.0.6739.0_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/adfbs7gkxu2ieqkjr4nml5wkujaa_131.0.6739.1/131.0.6739.1_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/adfbs7gkxu2ieqkjr4nml5wkujaa_131.0.6739.1/131.0.6739.1_chrome_installer.exe
+http://dl.google.com/release2/chrome/adfbs7gkxu2ieqkjr4nml5wkujaa_131.0.6739.1/131.0.6739.1_chrome_installer.exe
+https://dl.google.com/release2/chrome/adfbs7gkxu2ieqkjr4nml5wkujaa_131.0.6739.1/131.0.6739.1_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/adfbs7gkxu2ieqkjr4nml5wkujaa_131.0.6739.1/131.0.6739.1_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/adfbs7gkxu2ieqkjr4nml5wkujaa_131.0.6739.1/131.0.6739.1_chrome_installer.exe
