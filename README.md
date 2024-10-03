@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2024-10-03 20:39:48
+2024-10-04 02:27:47
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -39,27 +39,27 @@ https://dl.google.com/release2/chrome/adhdajh4lxwc57lnne6nr72vpv7a_129.0.6668.90
 http://www.google.com/dl/release2/chrome/adhdajh4lxwc57lnne6nr72vpv7a_129.0.6668.90/129.0.6668.90_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/adhdajh4lxwc57lnne6nr72vpv7a_129.0.6668.90/129.0.6668.90_chrome_installer.exe
 ## win_beta_x64
-**最新版本**： 130.0.6723.19  
-**文件大小**： 110.12 MB  
-**校验值（Sha256）**： 64e310b5c41e3981c56175dc54956500832543158e3d0959040376198a73e8f9  
+**最新版本**： 130.0.6723.31  
+**文件大小**： 109.99 MB  
+**校验值（Sha256）**： 9feaca71468d14603adba9d629217cacd7d69105c5d24fbf6d87e8383ddf3d53  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/adu2645erx4mazpt4zgdjua26zvq_130.0.6723.19/130.0.6723.19_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/adu2645erx4mazpt4zgdjua26zvq_130.0.6723.19/130.0.6723.19_chrome_installer.exe
-http://dl.google.com/release2/chrome/adu2645erx4mazpt4zgdjua26zvq_130.0.6723.19/130.0.6723.19_chrome_installer.exe
-https://dl.google.com/release2/chrome/adu2645erx4mazpt4zgdjua26zvq_130.0.6723.19/130.0.6723.19_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/adu2645erx4mazpt4zgdjua26zvq_130.0.6723.19/130.0.6723.19_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/adu2645erx4mazpt4zgdjua26zvq_130.0.6723.19/130.0.6723.19_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe
+http://dl.google.com/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe
+https://dl.google.com/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe
 ## win_beta_x86
-**最新版本**： 130.0.6723.19  
+**最新版本**： 130.0.6723.31  
 **文件大小**： 98.48 MB  
-**校验值（Sha256）**： 63b77954a53b62ac7a5331a55d79c8aad5cf3620ac0e7c8f4e61ff69b392b736  
+**校验值（Sha256）**： 967c67e2e0594425bf04b8c7ffa03057fa6f1d861dc11285f445cd432a296f9f  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/ad7yvh7e7vztbbnmfvekdlpflcvq_130.0.6723.19/130.0.6723.19_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/ad7yvh7e7vztbbnmfvekdlpflcvq_130.0.6723.19/130.0.6723.19_chrome_installer.exe
-http://dl.google.com/release2/chrome/ad7yvh7e7vztbbnmfvekdlpflcvq_130.0.6723.19/130.0.6723.19_chrome_installer.exe
-https://dl.google.com/release2/chrome/ad7yvh7e7vztbbnmfvekdlpflcvq_130.0.6723.19/130.0.6723.19_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/ad7yvh7e7vztbbnmfvekdlpflcvq_130.0.6723.19/130.0.6723.19_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/ad7yvh7e7vztbbnmfvekdlpflcvq_130.0.6723.19/130.0.6723.19_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe
+http://dl.google.com/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe
+https://dl.google.com/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe
 ## win_dev_x64
 **最新版本**： 131.0.6738.0  
 **文件大小**： 110.31 MB  
