@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2024-10-20 09:45:13
+2024-10-20 14:27:21
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -94,13 +94,13 @@ https://dl.google.com/release2/chrome/adbsp6ansh6zsf2ufcyl2k62bpja_132.0.6786.1/
 http://www.google.com/dl/release2/chrome/adbsp6ansh6zsf2ufcyl2k62bpja_132.0.6786.1/132.0.6786.1_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/adbsp6ansh6zsf2ufcyl2k62bpja_132.0.6786.1/132.0.6786.1_chrome_installer.exe
 ## win_canary_x86
-**最新版本**： 132.0.6786.0  
-**文件大小**： 99.23 MB  
-**校验值（Sha256）**： 965531f9491aadc386582e30006166e7b4cd431a20095462e1d6d466fc1c4c71  
+**最新版本**： 132.0.6786.1  
+**文件大小**： 116.96 MB  
+**校验值（Sha256）**： 0ee50b78e56b1c843db92966fee91af7ba314dcf351a6ee093eecf6dfad3805c  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/adj4jxx5y3reoa2yfy7t3n5gvwla_132.0.6786.0/132.0.6786.0_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/adj4jxx5y3reoa2yfy7t3n5gvwla_132.0.6786.0/132.0.6786.0_chrome_installer.exe
-http://dl.google.com/release2/chrome/adj4jxx5y3reoa2yfy7t3n5gvwla_132.0.6786.0/132.0.6786.0_chrome_installer.exe
-https://dl.google.com/release2/chrome/adj4jxx5y3reoa2yfy7t3n5gvwla_132.0.6786.0/132.0.6786.0_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/adj4jxx5y3reoa2yfy7t3n5gvwla_132.0.6786.0/132.0.6786.0_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/adj4jxx5y3reoa2yfy7t3n5gvwla_132.0.6786.0/132.0.6786.0_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/acfb5qcz5u7ojphdtxndvdasxcca_132.0.6786.1/132.0.6786.1_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/acfb5qcz5u7ojphdtxndvdasxcca_132.0.6786.1/132.0.6786.1_chrome_installer.exe
+http://dl.google.com/release2/chrome/acfb5qcz5u7ojphdtxndvdasxcca_132.0.6786.1/132.0.6786.1_chrome_installer.exe
+https://dl.google.com/release2/chrome/acfb5qcz5u7ojphdtxndvdasxcca_132.0.6786.1/132.0.6786.1_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/acfb5qcz5u7ojphdtxndvdasxcca_132.0.6786.1/132.0.6786.1_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/acfb5qcz5u7ojphdtxndvdasxcca_132.0.6786.1/132.0.6786.1_chrome_installer.exe
