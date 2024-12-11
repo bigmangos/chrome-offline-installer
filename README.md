@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2024-12-11 14:31:27
+2024-12-11 20:44:24
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -94,13 +94,13 @@ https://dl.google.com/release2/chrome/ac2sc6t4g7tgjlbi3xtwohdyieiq_133.0.6888.0/
 http://www.google.com/dl/release2/chrome/ac2sc6t4g7tgjlbi3xtwohdyieiq_133.0.6888.0/133.0.6888.0_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/ac2sc6t4g7tgjlbi3xtwohdyieiq_133.0.6888.0/133.0.6888.0_chrome_installer.exe
 ## win_canary_x86
-**最新版本**： 133.0.6887.4  
-**文件大小**： 101.41 MB  
-**校验值（Sha256）**： ed5fd684bc04d8628321f58584d72a6e44092d03395027b3c899f4944ff287bb  
+**最新版本**： 133.0.6888.0  
+**文件大小**： 101.32 MB  
+**校验值（Sha256）**： cdf9b6163930e54a43964d328bb38582f7688cf9f5cfef03ae8b3849921deabf  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/acypur4xyve63zutknp7hbs5ecnq_133.0.6887.4/133.0.6887.4_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/acypur4xyve63zutknp7hbs5ecnq_133.0.6887.4/133.0.6887.4_chrome_installer.exe
-http://dl.google.com/release2/chrome/acypur4xyve63zutknp7hbs5ecnq_133.0.6887.4/133.0.6887.4_chrome_installer.exe
-https://dl.google.com/release2/chrome/acypur4xyve63zutknp7hbs5ecnq_133.0.6887.4/133.0.6887.4_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/acypur4xyve63zutknp7hbs5ecnq_133.0.6887.4/133.0.6887.4_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/acypur4xyve63zutknp7hbs5ecnq_133.0.6887.4/133.0.6887.4_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/ad3vvqy26b7s4gfyb2lipbwwrm5a_133.0.6888.0/133.0.6888.0_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/ad3vvqy26b7s4gfyb2lipbwwrm5a_133.0.6888.0/133.0.6888.0_chrome_installer.exe
+http://dl.google.com/release2/chrome/ad3vvqy26b7s4gfyb2lipbwwrm5a_133.0.6888.0/133.0.6888.0_chrome_installer.exe
+https://dl.google.com/release2/chrome/ad3vvqy26b7s4gfyb2lipbwwrm5a_133.0.6888.0/133.0.6888.0_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/ad3vvqy26b7s4gfyb2lipbwwrm5a_133.0.6888.0/133.0.6888.0_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/ad3vvqy26b7s4gfyb2lipbwwrm5a_133.0.6888.0/133.0.6888.0_chrome_installer.exe
