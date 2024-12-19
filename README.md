@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2024-12-19 20:42:02
+2024-12-20 02:28:07
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -39,27 +39,27 @@ https://dl.google.com/release2/chrome/gptfu3tpnmld7i57qcgkfoswvu_131.0.6778.205/
 http://www.google.com/dl/release2/chrome/gptfu3tpnmld7i57qcgkfoswvu_131.0.6778.205/131.0.6778.205_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/gptfu3tpnmld7i57qcgkfoswvu_131.0.6778.205/131.0.6778.205_chrome_installer.exe
 ## win_beta_x64
-**最新版本**： 132.0.6834.46  
+**最新版本**： 132.0.6834.57  
 **文件大小**： 111.20 MB  
-**校验值（Sha256）**： 96a564eb723b42b01b30e6a6d975201b4a674b9e487f733566c9b7deac2ab7f5  
+**校验值（Sha256）**： 8ec94bf34f26631903f7dc5a3bf19d4d10a267a2dc756d065ef7cebf168501a3  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/aci3yvj3bkamkl3i3wzfw2mrc77a_132.0.6834.46/132.0.6834.46_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/aci3yvj3bkamkl3i3wzfw2mrc77a_132.0.6834.46/132.0.6834.46_chrome_installer.exe
-http://dl.google.com/release2/chrome/aci3yvj3bkamkl3i3wzfw2mrc77a_132.0.6834.46/132.0.6834.46_chrome_installer.exe
-https://dl.google.com/release2/chrome/aci3yvj3bkamkl3i3wzfw2mrc77a_132.0.6834.46/132.0.6834.46_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/aci3yvj3bkamkl3i3wzfw2mrc77a_132.0.6834.46/132.0.6834.46_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/aci3yvj3bkamkl3i3wzfw2mrc77a_132.0.6834.46/132.0.6834.46_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/act7afo2n4tzocsqkuutdtktsl7a_132.0.6834.57/132.0.6834.57_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/act7afo2n4tzocsqkuutdtktsl7a_132.0.6834.57/132.0.6834.57_chrome_installer.exe
+http://dl.google.com/release2/chrome/act7afo2n4tzocsqkuutdtktsl7a_132.0.6834.57/132.0.6834.57_chrome_installer.exe
+https://dl.google.com/release2/chrome/act7afo2n4tzocsqkuutdtktsl7a_132.0.6834.57/132.0.6834.57_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/act7afo2n4tzocsqkuutdtktsl7a_132.0.6834.57/132.0.6834.57_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/act7afo2n4tzocsqkuutdtktsl7a_132.0.6834.57/132.0.6834.57_chrome_installer.exe
 ## win_beta_x86
-**最新版本**： 132.0.6834.46  
-**文件大小**： 99.45 MB  
-**校验值（Sha256）**： d438107b2acd39a7f5eed2d1c9d4e6bd29b3f3c30ad8db9e0690e09b34fce583  
+**最新版本**： 132.0.6834.57  
+**文件大小**： 99.53 MB  
+**校验值（Sha256）**： be0b52540ba3e6d23e0cacbe70ce98ce0556925afe8ba24c5a014eb63e07b368  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/acaca7tshqviuz37mwzsvh3cfi7a_132.0.6834.46/132.0.6834.46_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/acaca7tshqviuz37mwzsvh3cfi7a_132.0.6834.46/132.0.6834.46_chrome_installer.exe
-http://dl.google.com/release2/chrome/acaca7tshqviuz37mwzsvh3cfi7a_132.0.6834.46/132.0.6834.46_chrome_installer.exe
-https://dl.google.com/release2/chrome/acaca7tshqviuz37mwzsvh3cfi7a_132.0.6834.46/132.0.6834.46_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/acaca7tshqviuz37mwzsvh3cfi7a_132.0.6834.46/132.0.6834.46_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/acaca7tshqviuz37mwzsvh3cfi7a_132.0.6834.46/132.0.6834.46_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/midv7o4flcliidt2ufemuorefe_132.0.6834.57/132.0.6834.57_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/midv7o4flcliidt2ufemuorefe_132.0.6834.57/132.0.6834.57_chrome_installer.exe
+http://dl.google.com/release2/chrome/midv7o4flcliidt2ufemuorefe_132.0.6834.57/132.0.6834.57_chrome_installer.exe
+https://dl.google.com/release2/chrome/midv7o4flcliidt2ufemuorefe_132.0.6834.57/132.0.6834.57_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/midv7o4flcliidt2ufemuorefe_132.0.6834.57/132.0.6834.57_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/midv7o4flcliidt2ufemuorefe_132.0.6834.57/132.0.6834.57_chrome_installer.exe
 ## win_dev_x64
 **最新版本**： 133.0.6888.2  
 **文件大小**： 113.35 MB  
