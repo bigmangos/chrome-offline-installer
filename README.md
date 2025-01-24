@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2025-01-24 20:38:25
+2025-01-25 02:27:11
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -61,27 +61,27 @@ https://dl.google.com/release2/chrome/adr4cgsfpnziqegfy5cgp55nty3q_133.0.6943.27
 http://www.google.com/dl/release2/chrome/adr4cgsfpnziqegfy5cgp55nty3q_133.0.6943.27/133.0.6943.27_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/adr4cgsfpnziqegfy5cgp55nty3q_133.0.6943.27/133.0.6943.27_chrome_installer.exe
 ## win_dev_x64
-**最新版本**： 134.0.6958.2  
-**文件大小**： 113.76 MB  
-**校验值（Sha256）**： 31538e6c08a33a7d59df526de0ab84db26ef59c738e59441f30dfd4b336b505c  
+**最新版本**： 134.0.6974.3  
+**文件大小**： 113.90 MB  
+**校验值（Sha256）**： 2277b3804635e837a4411d3e819d869fbdadb3cfa6eb880601c6e05c2f35eda6  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/adc2ivnpakb7wg2bncue73vyjwfq_134.0.6958.2/134.0.6958.2_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/adc2ivnpakb7wg2bncue73vyjwfq_134.0.6958.2/134.0.6958.2_chrome_installer.exe
-http://dl.google.com/release2/chrome/adc2ivnpakb7wg2bncue73vyjwfq_134.0.6958.2/134.0.6958.2_chrome_installer.exe
-https://dl.google.com/release2/chrome/adc2ivnpakb7wg2bncue73vyjwfq_134.0.6958.2/134.0.6958.2_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/adc2ivnpakb7wg2bncue73vyjwfq_134.0.6958.2/134.0.6958.2_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/adc2ivnpakb7wg2bncue73vyjwfq_134.0.6958.2/134.0.6958.2_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/epmee74ojqadhkr2vppscdezbq_134.0.6974.3/134.0.6974.3_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/epmee74ojqadhkr2vppscdezbq_134.0.6974.3/134.0.6974.3_chrome_installer.exe
+http://dl.google.com/release2/chrome/epmee74ojqadhkr2vppscdezbq_134.0.6974.3/134.0.6974.3_chrome_installer.exe
+https://dl.google.com/release2/chrome/epmee74ojqadhkr2vppscdezbq_134.0.6974.3/134.0.6974.3_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/epmee74ojqadhkr2vppscdezbq_134.0.6974.3/134.0.6974.3_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/epmee74ojqadhkr2vppscdezbq_134.0.6974.3/134.0.6974.3_chrome_installer.exe
 ## win_dev_x86
-**最新版本**： 134.0.6958.2  
+**最新版本**： 134.0.6974.3  
 **文件大小**： 102.01 MB  
-**校验值（Sha256）**： c945bb2ed001a1e25f39bc47d3656f8163125b0f0f9ad3b6fb2bd384bd83e79a  
+**校验值（Sha256）**： 72cca4de4c98793df9115c36f42f36209b74393642e3e42db9fce1f5204850ba  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/acegjmplz7c23jsg34jvz3afvyza_134.0.6958.2/134.0.6958.2_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/acegjmplz7c23jsg34jvz3afvyza_134.0.6958.2/134.0.6958.2_chrome_installer.exe
-http://dl.google.com/release2/chrome/acegjmplz7c23jsg34jvz3afvyza_134.0.6958.2/134.0.6958.2_chrome_installer.exe
-https://dl.google.com/release2/chrome/acegjmplz7c23jsg34jvz3afvyza_134.0.6958.2/134.0.6958.2_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/acegjmplz7c23jsg34jvz3afvyza_134.0.6958.2/134.0.6958.2_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/acegjmplz7c23jsg34jvz3afvyza_134.0.6958.2/134.0.6958.2_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/e5csllxxgkqmmsdglwxcsqd2jm_134.0.6974.3/134.0.6974.3_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/e5csllxxgkqmmsdglwxcsqd2jm_134.0.6974.3/134.0.6974.3_chrome_installer.exe
+http://dl.google.com/release2/chrome/e5csllxxgkqmmsdglwxcsqd2jm_134.0.6974.3/134.0.6974.3_chrome_installer.exe
+https://dl.google.com/release2/chrome/e5csllxxgkqmmsdglwxcsqd2jm_134.0.6974.3/134.0.6974.3_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/e5csllxxgkqmmsdglwxcsqd2jm_134.0.6974.3/134.0.6974.3_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/e5csllxxgkqmmsdglwxcsqd2jm_134.0.6974.3/134.0.6974.3_chrome_installer.exe
 ## win_canary_x64
 **最新版本**： 134.0.6976.1  
 **文件大小**： 148.82 MB  
