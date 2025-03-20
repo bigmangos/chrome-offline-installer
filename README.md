@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2025-03-20 20:40:59
+2025-03-21 02:30:13
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -39,27 +39,27 @@ https://dl.google.com/release2/chrome/fyjjfbp6koy2jazkobavc23h5a_134.0.6998.118/
 http://www.google.com/dl/release2/chrome/fyjjfbp6koy2jazkobavc23h5a_134.0.6998.118/134.0.6998.118_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/fyjjfbp6koy2jazkobavc23h5a_134.0.6998.118/134.0.6998.118_chrome_installer.exe
 ## win_beta_x64
-**最新版本**： 135.0.7049.17  
-**文件大小**： 114.59 MB  
-**校验值（Sha256）**： ffa705a6142f1314978846523832b9b999921e33ef3a4043fd99f24fbdab1bd6  
+**最新版本**： 135.0.7049.28  
+**文件大小**： 114.62 MB  
+**校验值（Sha256）**： 6fe3bc690af91e10d3582332f55cea9c1c80306590857f6c3110cfa1b14e456c  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/krs65uh4sbemuk5mvr7o2ufnfq_135.0.7049.17/135.0.7049.17_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/krs65uh4sbemuk5mvr7o2ufnfq_135.0.7049.17/135.0.7049.17_chrome_installer.exe
-http://dl.google.com/release2/chrome/krs65uh4sbemuk5mvr7o2ufnfq_135.0.7049.17/135.0.7049.17_chrome_installer.exe
-https://dl.google.com/release2/chrome/krs65uh4sbemuk5mvr7o2ufnfq_135.0.7049.17/135.0.7049.17_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/krs65uh4sbemuk5mvr7o2ufnfq_135.0.7049.17/135.0.7049.17_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/krs65uh4sbemuk5mvr7o2ufnfq_135.0.7049.17/135.0.7049.17_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/kcvdpoasxzpbw6o6hx4lxg34iu_135.0.7049.28/135.0.7049.28_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/kcvdpoasxzpbw6o6hx4lxg34iu_135.0.7049.28/135.0.7049.28_chrome_installer.exe
+http://dl.google.com/release2/chrome/kcvdpoasxzpbw6o6hx4lxg34iu_135.0.7049.28/135.0.7049.28_chrome_installer.exe
+https://dl.google.com/release2/chrome/kcvdpoasxzpbw6o6hx4lxg34iu_135.0.7049.28/135.0.7049.28_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/kcvdpoasxzpbw6o6hx4lxg34iu_135.0.7049.28/135.0.7049.28_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/kcvdpoasxzpbw6o6hx4lxg34iu_135.0.7049.28/135.0.7049.28_chrome_installer.exe
 ## win_beta_x86
-**最新版本**： 135.0.7049.17  
-**文件大小**： 102.46 MB  
-**校验值（Sha256）**： eb9c1b65a2a8f719c76866bbf624844046ce65cbfb46651643e59d8aa1701a01  
+**最新版本**： 135.0.7049.28  
+**文件大小**： 102.53 MB  
+**校验值（Sha256）**： b40d232659b78c4c73f8766fc351f224163d1a2f763312bad78dd79e23b55cba  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/if22dlecdvr5zhti3n2ztbpnee_135.0.7049.17/135.0.7049.17_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/if22dlecdvr5zhti3n2ztbpnee_135.0.7049.17/135.0.7049.17_chrome_installer.exe
-http://dl.google.com/release2/chrome/if22dlecdvr5zhti3n2ztbpnee_135.0.7049.17/135.0.7049.17_chrome_installer.exe
-https://dl.google.com/release2/chrome/if22dlecdvr5zhti3n2ztbpnee_135.0.7049.17/135.0.7049.17_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/if22dlecdvr5zhti3n2ztbpnee_135.0.7049.17/135.0.7049.17_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/if22dlecdvr5zhti3n2ztbpnee_135.0.7049.17/135.0.7049.17_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/lb4hcmxgnapu2ockzjpxf56eca_135.0.7049.28/135.0.7049.28_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/lb4hcmxgnapu2ockzjpxf56eca_135.0.7049.28/135.0.7049.28_chrome_installer.exe
+http://dl.google.com/release2/chrome/lb4hcmxgnapu2ockzjpxf56eca_135.0.7049.28/135.0.7049.28_chrome_installer.exe
+https://dl.google.com/release2/chrome/lb4hcmxgnapu2ockzjpxf56eca_135.0.7049.28/135.0.7049.28_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/lb4hcmxgnapu2ockzjpxf56eca_135.0.7049.28/135.0.7049.28_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/lb4hcmxgnapu2ockzjpxf56eca_135.0.7049.28/135.0.7049.28_chrome_installer.exe
 ## win_dev_x64
 **最新版本**： 136.0.7064.0  
 **文件大小**： 114.87 MB  
