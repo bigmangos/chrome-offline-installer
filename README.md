@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2025-03-23 09:50:31
+2025-03-23 14:28:04
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -94,13 +94,13 @@ https://dl.google.com/release2/chrome/actcz3uv4rr44hltianzouogjknq_136.0.7084.0/
 http://www.google.com/dl/release2/chrome/actcz3uv4rr44hltianzouogjknq_136.0.7084.0/136.0.7084.0_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/actcz3uv4rr44hltianzouogjknq_136.0.7084.0/136.0.7084.0_chrome_installer.exe
 ## win_canary_x86
-**最新版本**： 136.0.7084.0  
-**文件大小**： 103.70 MB  
-**校验值（Sha256）**： 7de1cbcd2d9b3ab7e861a5f3b9a0c84a42b72298f1cb4c294b67004b37f7f20c  
+**最新版本**： 136.0.7084.1  
+**文件大小**： 121.44 MB  
+**校验值（Sha256）**： 573f4f62604ef57101ff848cddf7796cea227e621fa0d7d4a6ae953ee7dab0ad  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/adhboq7wzqlex4dndlmemrui24vq_136.0.7084.0/136.0.7084.0_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/adhboq7wzqlex4dndlmemrui24vq_136.0.7084.0/136.0.7084.0_chrome_installer.exe
-http://dl.google.com/release2/chrome/adhboq7wzqlex4dndlmemrui24vq_136.0.7084.0/136.0.7084.0_chrome_installer.exe
-https://dl.google.com/release2/chrome/adhboq7wzqlex4dndlmemrui24vq_136.0.7084.0/136.0.7084.0_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/adhboq7wzqlex4dndlmemrui24vq_136.0.7084.0/136.0.7084.0_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/adhboq7wzqlex4dndlmemrui24vq_136.0.7084.0/136.0.7084.0_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/adqxihnjxh3upnm7su3hgnbwl43q_136.0.7084.1/136.0.7084.1_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/adqxihnjxh3upnm7su3hgnbwl43q_136.0.7084.1/136.0.7084.1_chrome_installer.exe
+http://dl.google.com/release2/chrome/adqxihnjxh3upnm7su3hgnbwl43q_136.0.7084.1/136.0.7084.1_chrome_installer.exe
+https://dl.google.com/release2/chrome/adqxihnjxh3upnm7su3hgnbwl43q_136.0.7084.1/136.0.7084.1_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/adqxihnjxh3upnm7su3hgnbwl43q_136.0.7084.1/136.0.7084.1_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/adqxihnjxh3upnm7su3hgnbwl43q_136.0.7084.1/136.0.7084.1_chrome_installer.exe
