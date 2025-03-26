@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2025-03-26 02:30:09
+2025-03-26 09:45:24
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -17,27 +17,27 @@
 * [win_canary_x86](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_canary_x86)
 
 ## win_stable_x64
-**最新版本**： 134.0.6998.166  
-**文件大小**： 114.54 MB  
-**校验值（Sha256）**： 343b5fd611bbf52b81839b43078d9b71fe944b0816ddf630480817357ba6cffe  
+**最新版本**： 134.0.6998.178  
+**文件大小**： 114.44 MB  
+**校验值（Sha256）**： 4de67af743e1c12e91d7dd202e3e7be46f1cf36ddac790e7948c95de12761735  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/adcpdodvxn3y5n73juvvfw4lmc2q_134.0.6998.166/134.0.6998.166_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/adcpdodvxn3y5n73juvvfw4lmc2q_134.0.6998.166/134.0.6998.166_chrome_installer.exe
-http://dl.google.com/release2/chrome/adcpdodvxn3y5n73juvvfw4lmc2q_134.0.6998.166/134.0.6998.166_chrome_installer.exe
-https://dl.google.com/release2/chrome/adcpdodvxn3y5n73juvvfw4lmc2q_134.0.6998.166/134.0.6998.166_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/adcpdodvxn3y5n73juvvfw4lmc2q_134.0.6998.166/134.0.6998.166_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/adcpdodvxn3y5n73juvvfw4lmc2q_134.0.6998.166/134.0.6998.166_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/mqwvms2ws2nu7gmt6jd3ofxp7u_134.0.6998.178/134.0.6998.178_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/mqwvms2ws2nu7gmt6jd3ofxp7u_134.0.6998.178/134.0.6998.178_chrome_installer.exe
+http://dl.google.com/release2/chrome/mqwvms2ws2nu7gmt6jd3ofxp7u_134.0.6998.178/134.0.6998.178_chrome_installer.exe
+https://dl.google.com/release2/chrome/mqwvms2ws2nu7gmt6jd3ofxp7u_134.0.6998.178/134.0.6998.178_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/mqwvms2ws2nu7gmt6jd3ofxp7u_134.0.6998.178/134.0.6998.178_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/mqwvms2ws2nu7gmt6jd3ofxp7u_134.0.6998.178/134.0.6998.178_chrome_installer.exe
 ## win_stable_x86
-**最新版本**： 134.0.6998.166  
-**文件大小**： 102.36 MB  
-**校验值（Sha256）**： 1a9cf3aa40cda606c4d262b9ce8ebbec8fffdfa202af5e6bf75f2616801e7381  
+**最新版本**： 134.0.6998.178  
+**文件大小**： 102.52 MB  
+**校验值（Sha256）**： e97b715d9dc37d8decb5dbe3494e8d012fe314586368237b3aec957036398cc7  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/gwhxmchiipa6ziesmsvfq6kena_134.0.6998.166/134.0.6998.166_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/gwhxmchiipa6ziesmsvfq6kena_134.0.6998.166/134.0.6998.166_chrome_installer.exe
-http://dl.google.com/release2/chrome/gwhxmchiipa6ziesmsvfq6kena_134.0.6998.166/134.0.6998.166_chrome_installer.exe
-https://dl.google.com/release2/chrome/gwhxmchiipa6ziesmsvfq6kena_134.0.6998.166/134.0.6998.166_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/gwhxmchiipa6ziesmsvfq6kena_134.0.6998.166/134.0.6998.166_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/gwhxmchiipa6ziesmsvfq6kena_134.0.6998.166/134.0.6998.166_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/p3mbumulbroxfmkjps7eoiwkva_134.0.6998.178/134.0.6998.178_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/p3mbumulbroxfmkjps7eoiwkva_134.0.6998.178/134.0.6998.178_chrome_installer.exe
+http://dl.google.com/release2/chrome/p3mbumulbroxfmkjps7eoiwkva_134.0.6998.178/134.0.6998.178_chrome_installer.exe
+https://dl.google.com/release2/chrome/p3mbumulbroxfmkjps7eoiwkva_134.0.6998.178/134.0.6998.178_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/p3mbumulbroxfmkjps7eoiwkva_134.0.6998.178/134.0.6998.178_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/p3mbumulbroxfmkjps7eoiwkva_134.0.6998.178/134.0.6998.178_chrome_installer.exe
 ## win_beta_x64
 **最新版本**： 135.0.7049.28  
 **文件大小**： 114.62 MB  
@@ -83,24 +83,24 @@ https://dl.google.com/release2/chrome/acdjt3ktfzrgtq5batmmmekispna_136.0.7064.0/
 http://www.google.com/dl/release2/chrome/acdjt3ktfzrgtq5batmmmekispna_136.0.7064.0/136.0.7064.0_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/acdjt3ktfzrgtq5batmmmekispna_136.0.7064.0/136.0.7064.0_chrome_installer.exe
 ## win_canary_x64
-**最新版本**： 136.0.7089.0  
-**文件大小**： 115.88 MB  
-**校验值（Sha256）**： 45fb7ca39acf35e9e7dcb9123963809ca0ffba5476fa20c4cf4b32ee591e392b  
+**最新版本**： 136.0.7090.1  
+**文件大小**： 151.02 MB  
+**校验值（Sha256）**： 72f5c0f39899f55cb92b0d4488862aabc66458c06f24406f78ea8ef3c68d626f  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/adhad4clngmgp5ep5pvzeuyxb6ca_136.0.7089.0/136.0.7089.0_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/adhad4clngmgp5ep5pvzeuyxb6ca_136.0.7089.0/136.0.7089.0_chrome_installer.exe
-http://dl.google.com/release2/chrome/adhad4clngmgp5ep5pvzeuyxb6ca_136.0.7089.0/136.0.7089.0_chrome_installer.exe
-https://dl.google.com/release2/chrome/adhad4clngmgp5ep5pvzeuyxb6ca_136.0.7089.0/136.0.7089.0_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/adhad4clngmgp5ep5pvzeuyxb6ca_136.0.7089.0/136.0.7089.0_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/adhad4clngmgp5ep5pvzeuyxb6ca_136.0.7089.0/136.0.7089.0_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/adacbqtlbkljiitj4qfyr3dhfg5a_136.0.7090.1/136.0.7090.1_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/adacbqtlbkljiitj4qfyr3dhfg5a_136.0.7090.1/136.0.7090.1_chrome_installer.exe
+http://dl.google.com/release2/chrome/adacbqtlbkljiitj4qfyr3dhfg5a_136.0.7090.1/136.0.7090.1_chrome_installer.exe
+https://dl.google.com/release2/chrome/adacbqtlbkljiitj4qfyr3dhfg5a_136.0.7090.1/136.0.7090.1_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/adacbqtlbkljiitj4qfyr3dhfg5a_136.0.7090.1/136.0.7090.1_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/adacbqtlbkljiitj4qfyr3dhfg5a_136.0.7090.1/136.0.7090.1_chrome_installer.exe
 ## win_canary_x86
-**最新版本**： 136.0.7089.0  
-**文件大小**： 103.54 MB  
-**校验值（Sha256）**： 089b19c7e47af128908e31a3743ea2292931ace97903d7b27d6c210c73595cd9  
+**最新版本**： 136.0.7090.0  
+**文件大小**： 103.59 MB  
+**校验值（Sha256）**： 447fbbc516f32fce86f3b95246a5a75217123e4761e7a47d73a143070c9c3121  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/b3v3fnnp2jsjk3ab4maq7ixqou_136.0.7089.0/136.0.7089.0_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/b3v3fnnp2jsjk3ab4maq7ixqou_136.0.7089.0/136.0.7089.0_chrome_installer.exe
-http://dl.google.com/release2/chrome/b3v3fnnp2jsjk3ab4maq7ixqou_136.0.7089.0/136.0.7089.0_chrome_installer.exe
-https://dl.google.com/release2/chrome/b3v3fnnp2jsjk3ab4maq7ixqou_136.0.7089.0/136.0.7089.0_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/b3v3fnnp2jsjk3ab4maq7ixqou_136.0.7089.0/136.0.7089.0_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/b3v3fnnp2jsjk3ab4maq7ixqou_136.0.7089.0/136.0.7089.0_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/acy7npszvygvaomkisn5j45rse3q_136.0.7090.0/136.0.7090.0_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/acy7npszvygvaomkisn5j45rse3q_136.0.7090.0/136.0.7090.0_chrome_installer.exe
+http://dl.google.com/release2/chrome/acy7npszvygvaomkisn5j45rse3q_136.0.7090.0/136.0.7090.0_chrome_installer.exe
+https://dl.google.com/release2/chrome/acy7npszvygvaomkisn5j45rse3q_136.0.7090.0/136.0.7090.0_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/acy7npszvygvaomkisn5j45rse3q_136.0.7090.0/136.0.7090.0_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/acy7npszvygvaomkisn5j45rse3q_136.0.7090.0/136.0.7090.0_chrome_installer.exe
