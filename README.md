@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2025-04-23 14:32:00
+2025-04-23 20:46:13
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -94,13 +94,13 @@ https://dl.google.com/release2/chrome/ad3ghhag5km2aojugkyqkkdv3mza_137.0.7139.0/
 http://www.google.com/dl/release2/chrome/ad3ghhag5km2aojugkyqkkdv3mza_137.0.7139.0/137.0.7139.0_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/ad3ghhag5km2aojugkyqkkdv3mza_137.0.7139.0/137.0.7139.0_chrome_installer.exe
 ## win_canary_x86
-**最新版本**： 137.0.7139.0  
-**文件大小**： 104.96 MB  
-**校验值（Sha256）**： 205eee5e0c86c5e4009950ec50b06e46e04675775bc606e7f4496b1231f4214e  
+**最新版本**： 137.0.7139.1  
+**文件大小**： 123.40 MB  
+**校验值（Sha256）**： 8cdf16f901d631060cb7208abb27b0009a109f3a7b19d736d53fac8bb5137a2b  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/adayhpuaupt53ayo6slyiajgtxwa_137.0.7139.0/137.0.7139.0_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/adayhpuaupt53ayo6slyiajgtxwa_137.0.7139.0/137.0.7139.0_chrome_installer.exe
-http://dl.google.com/release2/chrome/adayhpuaupt53ayo6slyiajgtxwa_137.0.7139.0/137.0.7139.0_chrome_installer.exe
-https://dl.google.com/release2/chrome/adayhpuaupt53ayo6slyiajgtxwa_137.0.7139.0/137.0.7139.0_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/adayhpuaupt53ayo6slyiajgtxwa_137.0.7139.0/137.0.7139.0_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/adayhpuaupt53ayo6slyiajgtxwa_137.0.7139.0/137.0.7139.0_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/acyui235hvpnhsorfcrycvxdqwya_137.0.7139.1/137.0.7139.1_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/acyui235hvpnhsorfcrycvxdqwya_137.0.7139.1/137.0.7139.1_chrome_installer.exe
+http://dl.google.com/release2/chrome/acyui235hvpnhsorfcrycvxdqwya_137.0.7139.1/137.0.7139.1_chrome_installer.exe
+https://dl.google.com/release2/chrome/acyui235hvpnhsorfcrycvxdqwya_137.0.7139.1/137.0.7139.1_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/acyui235hvpnhsorfcrycvxdqwya_137.0.7139.1/137.0.7139.1_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/acyui235hvpnhsorfcrycvxdqwya_137.0.7139.1/137.0.7139.1_chrome_installer.exe
