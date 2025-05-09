@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2025-05-09 20:45:12
+2025-05-10 02:31:21
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -61,27 +61,27 @@ https://dl.google.com/release2/chrome/lnf46rpmnd2ralowbh5olsl3qi_137.0.7151.15/1
 http://www.google.com/dl/release2/chrome/lnf46rpmnd2ralowbh5olsl3qi_137.0.7151.15/137.0.7151.15_chrome_installer.exe
 https://www.google.com/dl/release2/chrome/lnf46rpmnd2ralowbh5olsl3qi_137.0.7151.15/137.0.7151.15_chrome_installer.exe
 ## win_dev_x64
-**最新版本**： 138.0.7153.0  
-**文件大小**： 117.00 MB  
-**校验值（Sha256）**： abb6134d4c762a5201ed4fe90f428d314fd32b97c6a8ab0b84e705913b3c82dc  
+**最新版本**： 138.0.7166.3  
+**文件大小**： 117.02 MB  
+**校验值（Sha256）**： bcf6dd113666f1c0ebe3a60e6184fc9f62d65c162eb1ca4aa735e6c175821737  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/ad5d6nz7yejprzcjhvwrdsvxr3xq_138.0.7153.0/138.0.7153.0_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/ad5d6nz7yejprzcjhvwrdsvxr3xq_138.0.7153.0/138.0.7153.0_chrome_installer.exe
-http://dl.google.com/release2/chrome/ad5d6nz7yejprzcjhvwrdsvxr3xq_138.0.7153.0/138.0.7153.0_chrome_installer.exe
-https://dl.google.com/release2/chrome/ad5d6nz7yejprzcjhvwrdsvxr3xq_138.0.7153.0/138.0.7153.0_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/ad5d6nz7yejprzcjhvwrdsvxr3xq_138.0.7153.0/138.0.7153.0_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/ad5d6nz7yejprzcjhvwrdsvxr3xq_138.0.7153.0/138.0.7153.0_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/brtbmp3bs3xrm4x22rvxceafe4_138.0.7166.3/138.0.7166.3_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/brtbmp3bs3xrm4x22rvxceafe4_138.0.7166.3/138.0.7166.3_chrome_installer.exe
+http://dl.google.com/release2/chrome/brtbmp3bs3xrm4x22rvxceafe4_138.0.7166.3/138.0.7166.3_chrome_installer.exe
+https://dl.google.com/release2/chrome/brtbmp3bs3xrm4x22rvxceafe4_138.0.7166.3/138.0.7166.3_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/brtbmp3bs3xrm4x22rvxceafe4_138.0.7166.3/138.0.7166.3_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/brtbmp3bs3xrm4x22rvxceafe4_138.0.7166.3/138.0.7166.3_chrome_installer.exe
 ## win_dev_x86
-**最新版本**： 138.0.7153.0  
-**文件大小**： 105.86 MB  
-**校验值（Sha256）**： 429c0a5cc14f9e98781a8f2986c87200e44e6b5247d6557d2bf713d4b07d3c42  
+**最新版本**： 138.0.7166.3  
+**文件大小**： 105.23 MB  
+**校验值（Sha256）**： 516cf809be063c9acf9ae0c78e9f94a8fcfe46292f060a7e17b6822dc41ffca7  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/acc4fyciw447hl6yelyb6tbp2gtq_138.0.7153.0/138.0.7153.0_chrome_installer.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/acc4fyciw447hl6yelyb6tbp2gtq_138.0.7153.0/138.0.7153.0_chrome_installer.exe
-http://dl.google.com/release2/chrome/acc4fyciw447hl6yelyb6tbp2gtq_138.0.7153.0/138.0.7153.0_chrome_installer.exe
-https://dl.google.com/release2/chrome/acc4fyciw447hl6yelyb6tbp2gtq_138.0.7153.0/138.0.7153.0_chrome_installer.exe
-http://www.google.com/dl/release2/chrome/acc4fyciw447hl6yelyb6tbp2gtq_138.0.7153.0/138.0.7153.0_chrome_installer.exe
-https://www.google.com/dl/release2/chrome/acc4fyciw447hl6yelyb6tbp2gtq_138.0.7153.0/138.0.7153.0_chrome_installer.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/djudubtvj4bcyzvjftgeyfpmoi_138.0.7166.3/138.0.7166.3_chrome_installer.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/djudubtvj4bcyzvjftgeyfpmoi_138.0.7166.3/138.0.7166.3_chrome_installer.exe
+http://dl.google.com/release2/chrome/djudubtvj4bcyzvjftgeyfpmoi_138.0.7166.3/138.0.7166.3_chrome_installer.exe
+https://dl.google.com/release2/chrome/djudubtvj4bcyzvjftgeyfpmoi_138.0.7166.3/138.0.7166.3_chrome_installer.exe
+http://www.google.com/dl/release2/chrome/djudubtvj4bcyzvjftgeyfpmoi_138.0.7166.3/138.0.7166.3_chrome_installer.exe
+https://www.google.com/dl/release2/chrome/djudubtvj4bcyzvjftgeyfpmoi_138.0.7166.3/138.0.7166.3_chrome_installer.exe
 ## win_canary_x64
 **最新版本**： 138.0.7170.0  
 **文件大小**： 117.04 MB  
