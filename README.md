@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2025-12-03 20:54:07
+2025-12-04 02:37:59
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -94,13 +94,13 @@ https://dl.google.com/release2/chrome/kz4qm2tv55pxarl5qddlcf3dke_144.0.7559.4/14
 http://www.google.com/dl/release2/chrome/kz4qm2tv55pxarl5qddlcf3dke_144.0.7559.4/144.0.7559.4_chrome_installer_uncompressed.exe
 https://www.google.com/dl/release2/chrome/kz4qm2tv55pxarl5qddlcf3dke_144.0.7559.4/144.0.7559.4_chrome_installer_uncompressed.exe
 ## win_canary_x86
-**最新版本**： 144.0.7559.3  
-**文件大小**： 352.25 MB  
-**校验值（Sha256）**： 04e855cc1987e46add6ca9f6eeeffc936262ecc7e1e64fea24634c730c747073  
+**最新版本**： 144.0.7559.5  
+**文件大小**： 527.80 MB  
+**校验值（Sha256）**： ee11b096785c90bf30ff528349bc7d2de973c785509e22f1c3de24e650f83c8f  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/ixwca5g2ljur747droarmsz4ja_144.0.7559.3/144.0.7559.3_chrome_installer_uncompressed.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/ixwca5g2ljur747droarmsz4ja_144.0.7559.3/144.0.7559.3_chrome_installer_uncompressed.exe
-http://dl.google.com/release2/chrome/ixwca5g2ljur747droarmsz4ja_144.0.7559.3/144.0.7559.3_chrome_installer_uncompressed.exe
-https://dl.google.com/release2/chrome/ixwca5g2ljur747droarmsz4ja_144.0.7559.3/144.0.7559.3_chrome_installer_uncompressed.exe
-http://www.google.com/dl/release2/chrome/ixwca5g2ljur747droarmsz4ja_144.0.7559.3/144.0.7559.3_chrome_installer_uncompressed.exe
-https://www.google.com/dl/release2/chrome/ixwca5g2ljur747droarmsz4ja_144.0.7559.3/144.0.7559.3_chrome_installer_uncompressed.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/ad4xbcoqb6megjxz2c5pnujvtwna_144.0.7559.5/144.0.7559.5_chrome_installer_uncompressed.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/ad4xbcoqb6megjxz2c5pnujvtwna_144.0.7559.5/144.0.7559.5_chrome_installer_uncompressed.exe
+http://dl.google.com/release2/chrome/ad4xbcoqb6megjxz2c5pnujvtwna_144.0.7559.5/144.0.7559.5_chrome_installer_uncompressed.exe
+https://dl.google.com/release2/chrome/ad4xbcoqb6megjxz2c5pnujvtwna_144.0.7559.5/144.0.7559.5_chrome_installer_uncompressed.exe
+http://www.google.com/dl/release2/chrome/ad4xbcoqb6megjxz2c5pnujvtwna_144.0.7559.5/144.0.7559.5_chrome_installer_uncompressed.exe
+https://www.google.com/dl/release2/chrome/ad4xbcoqb6megjxz2c5pnujvtwna_144.0.7559.5/144.0.7559.5_chrome_installer_uncompressed.exe
