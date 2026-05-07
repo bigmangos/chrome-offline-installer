@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2026-05-07 11:37:10
+2026-05-07 16:40:12
 
 ## 目录
 * [win_stable_x64](https://github.com/bigmangos/chrome-offline-installer?tab=readme-ov-file#win_stable_x64)
@@ -83,16 +83,16 @@ https://dl.google.com/release2/chrome/n75did4w2kqm7nrryycgumfgaa_149.0.7815.2/14
 http://www.google.com/dl/release2/chrome/n75did4w2kqm7nrryycgumfgaa_149.0.7815.2/149.0.7815.2_chrome_installer_uncompressed.exe
 https://www.google.com/dl/release2/chrome/n75did4w2kqm7nrryycgumfgaa_149.0.7815.2/149.0.7815.2_chrome_installer_uncompressed.exe
 ## win_canary_x64
-**最新版本**： 150.0.7829.0  
-**文件大小**： 459.79 MB  
-**校验值（Sha256）**： 150fca9ccf978b0174fd1a618fc530b3033c75a9d581e8ae38e1a8bc12864f07  
+**最新版本**： 150.0.7830.0  
+**文件大小**： 460.19 MB  
+**校验值（Sha256）**： 0e54bb99fb4ecf19978742d4fb8b3386cc14721b48c7dc718f3abcb6eddccc6f  
 **下载链接**：
-http://edgedl.me.gvt1.com/edgedl/release2/chrome/adpyvuqqoj77guw2gxovqgptkw2q_150.0.7829.0/150.0.7829.0_chrome_installer_uncompressed.exe
-https://edgedl.me.gvt1.com/edgedl/release2/chrome/adpyvuqqoj77guw2gxovqgptkw2q_150.0.7829.0/150.0.7829.0_chrome_installer_uncompressed.exe
-http://dl.google.com/release2/chrome/adpyvuqqoj77guw2gxovqgptkw2q_150.0.7829.0/150.0.7829.0_chrome_installer_uncompressed.exe
-https://dl.google.com/release2/chrome/adpyvuqqoj77guw2gxovqgptkw2q_150.0.7829.0/150.0.7829.0_chrome_installer_uncompressed.exe
-http://www.google.com/dl/release2/chrome/adpyvuqqoj77guw2gxovqgptkw2q_150.0.7829.0/150.0.7829.0_chrome_installer_uncompressed.exe
-https://www.google.com/dl/release2/chrome/adpyvuqqoj77guw2gxovqgptkw2q_150.0.7829.0/150.0.7829.0_chrome_installer_uncompressed.exe
+http://edgedl.me.gvt1.com/edgedl/release2/chrome/bvzqfmpek2jaao42dawm56mmya_150.0.7830.0/150.0.7830.0_chrome_installer_uncompressed.exe
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/bvzqfmpek2jaao42dawm56mmya_150.0.7830.0/150.0.7830.0_chrome_installer_uncompressed.exe
+http://dl.google.com/release2/chrome/bvzqfmpek2jaao42dawm56mmya_150.0.7830.0/150.0.7830.0_chrome_installer_uncompressed.exe
+https://dl.google.com/release2/chrome/bvzqfmpek2jaao42dawm56mmya_150.0.7830.0/150.0.7830.0_chrome_installer_uncompressed.exe
+http://www.google.com/dl/release2/chrome/bvzqfmpek2jaao42dawm56mmya_150.0.7830.0/150.0.7830.0_chrome_installer_uncompressed.exe
+https://www.google.com/dl/release2/chrome/bvzqfmpek2jaao42dawm56mmya_150.0.7830.0/150.0.7830.0_chrome_installer_uncompressed.exe
 ## win_canary_x86
 **最新版本**： 150.0.7829.0  
 **文件大小**： 376.18 MB  
