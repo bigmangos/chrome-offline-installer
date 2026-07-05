@@ -17,9 +17,19 @@ func main() {
 		slog.Error(fmt.Sprintf("save markdown error: %v", err))
 	}
 
-	// 下载最新x64稳定版本
 	downloadVer := data["win_stable_x64"]
-	if err := do.Download(downloadVer.Version, downloadVer.Urls[0]); err != nil {
-		slog.Error(fmt.Sprintf("download error: %v", err))
+
+	if !do.CheckUpdate(downloadVer.Version) {
+		slog.Info("no need to download")
+		return
+	}
+
+	if err := do.Download("x64", downloadVer.Urls[0]); err != nil {
+		slog.Error(fmt.Sprintf("download x86 error: %v", err))
+	}
+
+	downloadVer = data["win_stable_arm64"]
+	if err := do.Download("arm64", downloadVer.Urls[0]); err != nil {
+		slog.Error(fmt.Sprintf("download arm64 error: %v", err))
 	}
 }

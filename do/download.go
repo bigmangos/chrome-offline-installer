@@ -6,7 +6,7 @@ import (
 	"github/bigmangos/chrome-offline-installer/internal/util"
 	"log/slog"
 	"os"
-	"strings"
+	"path"
 
 	"github.com/go-resty/resty/v2"
 )
@@ -23,46 +23,49 @@ func getLatestVersion() (string, error) {
 	return string(f), nil
 }
 
-func checkUpdate(currentVersion string) bool {
+func CheckUpdate(currentVersion string) bool {
 	lastVer, err := getLatestVersion()
 	if err != nil {
 		slog.Error(fmt.Sprintf("getLatestVersion err: %v", err))
 		return false
 	}
-	return util.IsNewVersion(currentVersion, lastVer)
-}
 
-func Download(currentVersion string, url string) error {
-	if !checkUpdate(currentVersion) {
-		slog.Info("no need to download")
-		return nil
+	if !util.IsNewVersion(currentVersion, lastVer) {
+		return false
 	}
 
 	// 更新last_version.txt
 	f, err := os.Create(lastVersionPath)
 	defer f.Close()
 	if err != nil {
-		return errors.New(fmt.Sprintf("create file error: %v", err))
+		slog.Error(fmt.Sprintf("create file error: %v", err))
+		return true
 	}
 
 	if _, err = f.WriteString(currentVersion); err != nil {
-		return errors.New(fmt.Sprintf("write file error: %v", err))
+		slog.Error(fmt.Sprintf("write file error: %v", err))
+		return true
 	}
 
-	all := strings.Split(url, "/")
-	fileName := all[len(all)-1]
-	_, err = os.Stat(fileName)
-	if os.IsExist(err) {
-		slog.Info(fmt.Sprintf("%s already exists", fileName))
-		return nil
+	return true
+}
+
+func Download(arch, url string) error {
+	fileName := path.Base(url)
+	if fileName == "." || fileName == "/" {
+		return errors.New(fmt.Sprintf("can not find file name: %v", url))
 	}
-	resp, err := resty.New().R().
-		SetOutput(fileName).Get(url)
+
+	ext := path.Ext(fileName)
+	fileName = fileName[:len(fileName)-len(ext)] + "_" + arch + ext
+
+	slog.Info("download", "name", fileName)
+
+	resp, err := resty.New().R().SetOutput(fileName).Get(url)
 	if err != nil {
 		return errors.New(fmt.Sprintf("download %s err: %v", fileName, err))
 	}
 
-	// 检查响应状态码
 	if resp.IsError() {
 		return errors.New(fmt.Sprintf("download %s err: %v", fileName, resp.Status()))
 	}
