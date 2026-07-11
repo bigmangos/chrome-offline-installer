@@ -63,6 +63,7 @@ jobs:
           git push origin ${{ env.tag }}
 
       - name: Download Chrome++
+        if: env.exe_exists == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
