@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2026-07-28 18:38:18
+2026-07-28 22:12:59
 
 ## Contents
 
@@ -78,17 +78,17 @@
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **X64** | `152.0.7977.0` | 491.58 MB | `db34b465...` | [url-0](http://edgedl.me.gvt1.com/edgedl/release2/chrome/acffmaxfrhbkjlwogyknfy4aze4q_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-1](https://edgedl.me.gvt1.com/edgedl/release2/chrome/acffmaxfrhbkjlwogyknfy4aze4q_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-2](http://dl.google.com/release2/chrome/acffmaxfrhbkjlwogyknfy4aze4q_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-3](https://dl.google.com/release2/chrome/acffmaxfrhbkjlwogyknfy4aze4q_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-4](http://www.google.com/dl/release2/chrome/acffmaxfrhbkjlwogyknfy4aze4q_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-5](https://www.google.com/dl/release2/chrome/acffmaxfrhbkjlwogyknfy4aze4q_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe)  |
+| **X64** | `152.0.7977.2` | 491.58 MB | `dff2439e...` | [url-0](http://edgedl.me.gvt1.com/edgedl/release2/chrome/omlgl5qp76epmybg7zub3xsph4_152.0.7977.2/152.0.7977.2_chrome_installer_uncompressed.exe) [url-1](https://edgedl.me.gvt1.com/edgedl/release2/chrome/omlgl5qp76epmybg7zub3xsph4_152.0.7977.2/152.0.7977.2_chrome_installer_uncompressed.exe) [url-2](http://dl.google.com/release2/chrome/omlgl5qp76epmybg7zub3xsph4_152.0.7977.2/152.0.7977.2_chrome_installer_uncompressed.exe) [url-3](https://dl.google.com/release2/chrome/omlgl5qp76epmybg7zub3xsph4_152.0.7977.2/152.0.7977.2_chrome_installer_uncompressed.exe) [url-4](http://www.google.com/dl/release2/chrome/omlgl5qp76epmybg7zub3xsph4_152.0.7977.2/152.0.7977.2_chrome_installer_uncompressed.exe) [url-5](https://www.google.com/dl/release2/chrome/omlgl5qp76epmybg7zub3xsph4_152.0.7977.2/152.0.7977.2_chrome_installer_uncompressed.exe)  |
 | **ARM64** | `152.0.7977.0` | 465.56 MB | `cd85999c...` | [url-0](http://edgedl.me.gvt1.com/edgedl/release2/chrome/adiloytymm5qnantrdkm3vupozqq_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-1](https://edgedl.me.gvt1.com/edgedl/release2/chrome/adiloytymm5qnantrdkm3vupozqq_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-2](http://dl.google.com/release2/chrome/adiloytymm5qnantrdkm3vupozqq_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-3](https://dl.google.com/release2/chrome/adiloytymm5qnantrdkm3vupozqq_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-4](http://www.google.com/dl/release2/chrome/adiloytymm5qnantrdkm3vupozqq_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-5](https://www.google.com/dl/release2/chrome/adiloytymm5qnantrdkm3vupozqq_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe)  |
-| **X86** | `152.0.7977.0` | 401.92 MB | `149ac41c...` | [url-0](http://edgedl.me.gvt1.com/edgedl/release2/chrome/adyzkx2illbagvbdp6lil273nzja_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-1](https://edgedl.me.gvt1.com/edgedl/release2/chrome/adyzkx2illbagvbdp6lil273nzja_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-2](http://dl.google.com/release2/chrome/adyzkx2illbagvbdp6lil273nzja_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-3](https://dl.google.com/release2/chrome/adyzkx2illbagvbdp6lil273nzja_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-4](http://www.google.com/dl/release2/chrome/adyzkx2illbagvbdp6lil273nzja_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe) [url-5](https://www.google.com/dl/release2/chrome/adyzkx2illbagvbdp6lil273nzja_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe)  |
+| **X86** | `152.0.7977.2` | 401.92 MB | `ab180044...` | [url-0](http://edgedl.me.gvt1.com/edgedl/release2/chrome/ad4rcokaeizmq2nscb2diluuq43a_152.0.7977.2/152.0.7977.2_chrome_installer_uncompressed.exe) [url-1](https://edgedl.me.gvt1.com/edgedl/release2/chrome/ad4rcokaeizmq2nscb2diluuq43a_152.0.7977.2/152.0.7977.2_chrome_installer_uncompressed.exe) [url-2](http://dl.google.com/release2/chrome/ad4rcokaeizmq2nscb2diluuq43a_152.0.7977.2/152.0.7977.2_chrome_installer_uncompressed.exe) [url-3](https://dl.google.com/release2/chrome/ad4rcokaeizmq2nscb2diluuq43a_152.0.7977.2/152.0.7977.2_chrome_installer_uncompressed.exe) [url-4](http://www.google.com/dl/release2/chrome/ad4rcokaeizmq2nscb2diluuq43a_152.0.7977.2/152.0.7977.2_chrome_installer_uncompressed.exe) [url-5](https://www.google.com/dl/release2/chrome/ad4rcokaeizmq2nscb2diluuq43a_152.0.7977.2/152.0.7977.2_chrome_installer_uncompressed.exe)  |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-152.0.7977.0_chrome_installer_uncompressed.exe db34b465d4052e704ceaac437614b371bcbfc47c3fb01a99b532df6e98535351
+152.0.7977.2_chrome_installer_uncompressed.exe dff2439e5032cad2796b74c14e8d3ebedea30cfc29013af96864d2b0deae3883
 152.0.7977.0_chrome_installer_uncompressed.exe cd85999cfe7b9e4ea1efd4dd437011d20a22d2a86008c4805dfa4e471f97b33f
-152.0.7977.0_chrome_installer_uncompressed.exe 149ac41c335a2e6d2f34ada0ec033a033ca8975dd2e81e3c13b99a45b049a722
+152.0.7977.2_chrome_installer_uncompressed.exe ab180044f4da025cd91135684a8603ae7cb8634eca9b9e924935f4d580334f29
 ```
 
 </details>
