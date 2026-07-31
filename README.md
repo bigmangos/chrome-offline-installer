@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2026-08-01 05:08:27
+2026-08-01 07:03:49
 
 ## Contents
 
