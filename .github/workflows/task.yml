@@ -8,6 +8,9 @@ on:
   schedule:
     - cron: '0 */2 * * *'
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,10 +29,9 @@ jobs:
 
       - name: Commit files
         run: |
-          now_date=$(date +'%Y-%m-%d')
           git config --local user.email "github-action[bot]@github.com"
           git config --local user.name "github-action[bot]"
-          git pull
+          git pull --rebase --autostash
           git add --all
           git commit -m ":pencil: Auto update Chrome at  $(date +"%Y-%m-%d %H:%M")"
           git push origin main
@@ -63,32 +65,42 @@ jobs:
           git push origin ${{ env.tag }}
 
       - name: Download Chrome++
-        if: env.exe_exists == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           API="https://api.github.com/repos/Bush2021/chrome_plus/releases/latest"
 
           read FILE_NAME DOWNLOAD_URL <<<"$(
-          curl -fsSL "$API" |
+          curl -fsSL \
+          -H "Authorization: Bearer $GITHUB_TOKEN" \
+          -H "X-GitHub-Api-Version: 2022-11-28" \
+          "$API" |
           jq -r '
           .assets[]
           | select(.name | test("^Chrome\\+\\+_v.*_x86_x64_arm64\\.7z$"))
           | "\(.name) \(.browser_download_url)"
-          '
+          ' | head -n 1
           )"
-      
+
           if [ -z "${FILE_NAME:-}" ] || [ -z "${DOWNLOAD_URL:-}" ]; then
             echo "Chrome++ package not found."
             exit 1
           fi
-      
-          curl -sL \
-            -o "$FILE_NAME" \
-            "$DOWNLOAD_URL"
+
+          if gh api \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "repos/$GITHUB_REPOSITORY/releases/tags/${{ env.tag }}" \
+            --jq '.assets[].name' 2>/dev/null | grep -Fxq "$FILE_NAME"; then
+            echo "Chrome++ $FILE_NAME is already in release ${{ env.tag }}."
+            echo "chrome_plus_update=false" >> "$GITHUB_ENV"
+          else
+            echo "New Chrome++ package found: $FILE_NAME"
+            curl -fsSL -o "$FILE_NAME" "$DOWNLOAD_URL"
+            echo "chrome_plus_update=true" >> "$GITHUB_ENV"
+          fi
 
       - name: Upload Release
-        if: env.exe_exists == 'true'
+        if: env.exe_exists == 'true' || env.chrome_plus_update == 'true'
         uses: softprops/action-gh-release@v3
         with:
           tag_name: ${{ env.tag }}
