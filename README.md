@@ -4,7 +4,7 @@
 稳定版存档：<https://github.com/bigmangos/chrome-offline-installer/releases>
 
 最近一次检测更新时间（UTC+8）：
-2026-10-02 12:42:52
+2026-10-02 15:08:18
 
 ## Contents
 
@@ -29,9 +29,9 @@
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-154.0.8037.98_chrome_installer_uncompressed.exe 2d5f2073185cdf8e72bd70b19970bcb2e1ade19a85d68b6be2a3fe672816941d
-154.0.8037.98_chrome_installer_uncompressed.exe d3a01842d9d7bd56c5ea8323558df1f61b7b87018d0624dabf2ffdf32b2d7549
-154.0.8037.98_chrome_installer_uncompressed.exe dd9945e3271a08f6cef1b67169fcf906ac3dee37ee027f669d177e8b508a5781
+x64 154.0.8037.98_chrome_installer_uncompressed.exe 2d5f2073185cdf8e72bd70b19970bcb2e1ade19a85d68b6be2a3fe672816941d
+arm64 154.0.8037.98_chrome_installer_uncompressed.exe d3a01842d9d7bd56c5ea8323558df1f61b7b87018d0624dabf2ffdf32b2d7549
+x86 154.0.8037.98_chrome_installer_uncompressed.exe dd9945e3271a08f6cef1b67169fcf906ac3dee37ee027f669d177e8b508a5781
 ```
 
 </details>
@@ -48,9 +48,9 @@
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-156.0.8078.4_chrome_installer_uncompressed.exe 8141602f95a9889a7619c891df8e578c87d5377087c903187c49d8e97662a2a3
-156.0.8078.4_chrome_installer_uncompressed.exe 60e26948999ca67772484069c4b709c173171553d1ae10de695e4c2019ffc7f6
-156.0.8078.4_chrome_installer_uncompressed.exe 41819effe355cf539af5e5ca92753bd21c8ea0f643b324263da3c1b0704c34dd
+x64 156.0.8078.4_chrome_installer_uncompressed.exe 8141602f95a9889a7619c891df8e578c87d5377087c903187c49d8e97662a2a3
+arm64 156.0.8078.4_chrome_installer_uncompressed.exe 60e26948999ca67772484069c4b709c173171553d1ae10de695e4c2019ffc7f6
+x86 156.0.8078.4_chrome_installer_uncompressed.exe 41819effe355cf539af5e5ca92753bd21c8ea0f643b324263da3c1b0704c34dd
 ```
 
 </details>
@@ -67,9 +67,9 @@
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-156.0.8072.0_chrome_installer_uncompressed.exe 1167c8b30443207cffb310466f4d23227faed3c92ca80d84141871a7b4567119
-156.0.8072.0_chrome_installer_uncompressed.exe 4766ee207a7a898af105c8d4e561773818e4eee20cf9c80d0a438bf07c427c37
-156.0.8072.0_chrome_installer_uncompressed.exe b60c470ee6d819192957da8c56558733208f9a2055249d96b42c8528855e24fc
+x64 156.0.8072.0_chrome_installer_uncompressed.exe 1167c8b30443207cffb310466f4d23227faed3c92ca80d84141871a7b4567119
+arm64 156.0.8072.0_chrome_installer_uncompressed.exe 4766ee207a7a898af105c8d4e561773818e4eee20cf9c80d0a438bf07c427c37
+x86 156.0.8072.0_chrome_installer_uncompressed.exe b60c470ee6d819192957da8c56558733208f9a2055249d96b42c8528855e24fc
 ```
 
 </details>
@@ -86,9 +86,9 @@
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-157.0.8082.0_chrome_installer_uncompressed.exe c28f680db8bdd9899d543bc0dd3ebedc9aca5558862167a0915daee38674fa36
-157.0.8082.0_chrome_installer_uncompressed.exe 005e61e39e02681b83dd9c17c8b42c3ff333db0c48f2735f94f189489b5237bb
-157.0.8082.0_chrome_installer_uncompressed.exe 044e15e552945bc1643a64f1cf8842a5812736cf1b90abf1119f4bcefeef3e58
+x64 157.0.8082.0_chrome_installer_uncompressed.exe c28f680db8bdd9899d543bc0dd3ebedc9aca5558862167a0915daee38674fa36
+arm64 157.0.8082.0_chrome_installer_uncompressed.exe 005e61e39e02681b83dd9c17c8b42c3ff333db0c48f2735f94f189489b5237bb
+x86 157.0.8082.0_chrome_installer_uncompressed.exe 044e15e552945bc1643a64f1cf8842a5812736cf1b90abf1119f4bcefeef3e58
 ```
 
 </details>
